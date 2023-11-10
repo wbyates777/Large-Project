@@ -1,5 +1,5 @@
 # Large-Project
-Example of a large(ish) project.
+Example of a large(ish) project. This took me six months to write, and is based on an earlier/simpler Python version.
 
 This code is used to simulate and optimise water distribution networks.
 The optimiser uses a number of machine-learning algorithms. See for example 
